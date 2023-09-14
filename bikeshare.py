@@ -7,6 +7,7 @@ CITY_DATA = { 'Chicago': 'chicago.csv',
 
 def get_filters():
     """
+    test of changes in project 3 Version Control
     Asks user to specify a city, month, and day to analyze.
     Returns:
         (str) city - name of the city to analyze
